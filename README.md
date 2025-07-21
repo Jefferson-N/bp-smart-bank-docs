@@ -18,12 +18,13 @@ Este repositorio contiene la documentación para el desarrollo de una solución 
 ### Diagramas en PNG
 - `Contexto.drawio.png`
 - `Contenedores.drawio.png`
-- `Componente_Movimientos.drawio.png`
-- `Componente_Transferencias.drawio.png`
-- `Componente_DatosCliente.drawio.png`
-- `Componente_Auditoria.drawio.png`
-- `Componente_Notificaciones.drawio.png`
-- `Componente_Onboarding.drawio.png`
+- `Componente-Movimientos.drawio.png`
+- `Componente-Transferencias.drawio.png`
+- `Componente-DatosCliente.drawio.png`
+- `Componente-Auditoria.drawio.png`
+- `Componente-Preferencias.drawio.png`
+- `Componente-Notificaciones.drawio.png`
+- `Componente-Onboarding.drawio.png`
 
 ---
 
